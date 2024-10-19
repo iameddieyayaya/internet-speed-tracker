@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
+.venv/
+.env
+
+# React
+node_modules/
+build/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.development.sample
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
